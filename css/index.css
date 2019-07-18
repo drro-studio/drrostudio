@@ -8,3 +8,11 @@ body{
   left: 50%;
   transform: translate(-50%, -50%);
 }
+#img_tangxiaoman{
+  width: 768px;
+  height: 432px;
+}
+#toptext{
+  margin: auto;
+  width: 500px;
+}
